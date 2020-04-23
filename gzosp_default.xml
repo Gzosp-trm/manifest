@@ -6,6 +6,9 @@
 
   <remote  name="gzosp"
            fetch="https://github.com/GZOSP" />
+  
+  <remote  name="trm"
+           fetch="https://github.com/Gzosp-trm" />  
 
   <default revision="10.0"
            remote="gzosp"
